@@ -1,0 +1,7 @@
+Q1. In a singly linked list, deletion of data requires modification of how many pointers?
+1. 1
+2. 2
+3. 3
+4. Depends upon the node being deleted.
+
+ans -- 2
